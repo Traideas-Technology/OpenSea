@@ -15,8 +15,8 @@ from selenium.webdriver.common.keys import Keys
 def search(url):
     count = 0
     extension_path = "/home/sakib/metamask-10.3.0-an+fx.xpi"
-    driver = webdriver.Chrome(executable_path='/usr/bin/chromedriver')
-    # driver = webdriver.Firefox(executable_path='/usr/bin/geckodriver')
+    # driver = webdriver.Chrome(executable_path='/usr/bin/chromedriver')
+    driver = webdriver.Firefox(executable_path='/usr/bin/geckodriver')
     driver.install_addon(extension_path, temporary=True)
     driver.get("about:support")
     time.sleep(40)
@@ -52,13 +52,13 @@ def search(url):
         pass
 
     for i in url:
-        if count > 2:
-            count = 0
-            driver = webdriver.Firefox(executable_path='/usr/bin/geckodriver')
-            # driver.switch_to.window(driver.window_handles[1])
-        else:
-            driver.execute_script(f"window.open('about:blank', 'tab{str(i)}');")
-            driver.switch_to.window(f'tab{str(i)}')
+        # if count > 2:
+        #     count = 0
+        #     driver = webdriver.Firefox(executable_path='/usr/bin/geckodriver')
+        #     driver.switch_to.window(driver.window_handles[1])
+        # else:
+        driver.execute_script(f"window.open('about:blank', 'tab{str(i)}');")
+        driver.switch_to.window(f'tab{str(i)}')
         count +=1
         driver.get(i)
 

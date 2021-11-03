@@ -4287,3 +4287,27 @@ console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: Object
+1635928243672	geckodriver	INFO	Listening on 127.0.0.1:54895
+1635928243676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34365" "-no-remote" "-profile" "/tmp/rust_mozprofilewYl1QO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:34365/devtools/browser/5da58e83-6589-4a81-a1cc-1c584ec06bab
+1635928245012	Marionette	INFO	Listening on port 46365
+1635928245098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://8a78516a-6a91-49fb-a6b5-aa692b915b20/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://8a78516a-6a91-49fb-a6b5-aa692b915b20/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://8a78516a-6a91-49fb-a6b5-aa692b915b20/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://8a78516a-6a91-49fb-a6b5-aa692b915b20/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://8a78516a-6a91-49fb-a6b5-aa692b915b20/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://8a78516a-6a91-49fb-a6b5-aa692b915b20/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://8a78516a-6a91-49fb-a6b5-aa692b915b20/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://8a78516a-6a91-49fb-a6b5-aa692b915b20/ui-3.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1635928301300	Marionette	INFO	Stopped listening on port 46365
+1635928301410	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
