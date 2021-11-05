@@ -4311,3 +4311,1174 @@ unwatchForTabs()@TargetList.jsm:71
 unwatchForTargets()@TargetList.jsm:38
 destructor()@TargetList.jsm:110
 close()@RemoteAgent.jsm:123
+JavaScript error: , line 0: uncaught exception: Object
+1635932877665	geckodriver	INFO	Listening on 127.0.0.1:55141
+1635932877669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49513" "-no-remote" "-profile" "/tmp/rust_mozprofilep0s8fL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49513/devtools/browser/604c092f-057e-4708-afa0-83a301f64e67
+1635932879019	Marionette	INFO	Listening on port 41595
+1635932879127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://a7930a4b-0d13-4a93-814b-0fb3232fe4ef/ui-3.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635932915334	geckodriver	INFO	Listening on 127.0.0.1:36495
+1635932915337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41591" "-no-remote" "-profile" "/tmp/rust_mozprofileU4R5Fq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:41591/devtools/browser/d2488c90-c588-4147-9bdc-4bca07351f63
+1635932916665	Marionette	INFO	Listening on port 42907
+1635932916762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://fe4cd720-08d6-4df1-b81e-fafe9c2bc57c/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://fe4cd720-08d6-4df1-b81e-fafe9c2bc57c/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fe4cd720-08d6-4df1-b81e-fafe9c2bc57c/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fe4cd720-08d6-4df1-b81e-fafe9c2bc57c/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://fe4cd720-08d6-4df1-b81e-fafe9c2bc57c/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://fe4cd720-08d6-4df1-b81e-fafe9c2bc57c/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://fe4cd720-08d6-4df1-b81e-fafe9c2bc57c/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://fe4cd720-08d6-4df1-b81e-fafe9c2bc57c/ui-3.js, line 1: unreachable code after return statement
+1635933004173	geckodriver	INFO	Listening on 127.0.0.1:60169
+1635933004686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42239" "-no-remote" "-profile" "/tmp/rust_mozprofileZJEL6R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:42239/devtools/browser/45d0ff87-8a75-4c22-9caa-dd890df8a031
+1635933006070	Marionette	INFO	Listening on port 33363
+1635933006109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://e0e960e4-4b06-4103-8a5e-15c1cc8cf0e7/ui-3.js, line 1: unreachable code after return statement
+1635933146062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635933146891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+!!! error running onStopped callback: TypeError: callback is not a function
+1635933150518	Marionette	INFO	Stopped listening on port 45149
+1635933150530	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+!!! error running onStopped callback: TypeError: callback is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1635933152327	Marionette	INFO	Stopped listening on port 37975
+1635933152339	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1635933153471	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+!!! error running onStopped callback: TypeError: callback is not a function
+1635933158629	Marionette	INFO	Stopped listening on port 42907
+1635933158642	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+Port.onMessage event fired while context is inactive.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635933160697	Marionette	INFO	Stopped listening on port 33363
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635933160709	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1635933316323	geckodriver	INFO	Listening on 127.0.0.1:39927
+1635933316830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39969" "-no-remote" "-profile" "/tmp/rust_mozprofileelCcgQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:39969/devtools/browser/e3aca8db-3015-4909-bfd4-21a6a1f77516
+1635933318098	Marionette	INFO	Listening on port 42683
+1635933318150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635933394546	geckodriver	INFO	Listening on 127.0.0.1:33471
+1635933395058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46343" "-no-remote" "-profile" "/tmp/rust_mozprofile0j1Nre"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46343/devtools/browser/4ead46ef-62dd-44e1-84a2-bcf73376ebae
+1635933396405	Marionette	INFO	Listening on port 35609
+1635933396473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635933479769	geckodriver	INFO	Listening on 127.0.0.1:40039
+1635933480282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47287" "-no-remote" "-profile" "/tmp/rust_mozprofile5c0oQu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:47287/devtools/browser/6fc1ac1e-29fd-4229-9f5b-13ff28c20362
+1635933481761	Marionette	INFO	Listening on port 34849
+1635933481798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://251e52fc-e494-4f01-a144-06aca09281b0/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://251e52fc-e494-4f01-a144-06aca09281b0/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://251e52fc-e494-4f01-a144-06aca09281b0/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://251e52fc-e494-4f01-a144-06aca09281b0/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://251e52fc-e494-4f01-a144-06aca09281b0/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://251e52fc-e494-4f01-a144-06aca09281b0/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://251e52fc-e494-4f01-a144-06aca09281b0/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://251e52fc-e494-4f01-a144-06aca09281b0/ui-3.js, line 1: unreachable code after return statement
+1635933612453	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635933636401	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635933659085	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635933675924	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635934222953	geckodriver	INFO	Listening on 127.0.0.1:47711
+1635934223463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60647" "-no-remote" "-profile" "/tmp/rust_mozprofile8mRfuW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:60647/devtools/browser/9eac172f-c898-4cd6-baf4-67aa4a4fa483
+1635934224970	Marionette	INFO	Listening on port 46527
+1635934225108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://df29a1de-eb04-4266-a74b-44897aa90d85/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://df29a1de-eb04-4266-a74b-44897aa90d85/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://df29a1de-eb04-4266-a74b-44897aa90d85/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://df29a1de-eb04-4266-a74b-44897aa90d85/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://df29a1de-eb04-4266-a74b-44897aa90d85/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://df29a1de-eb04-4266-a74b-44897aa90d85/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://df29a1de-eb04-4266-a74b-44897aa90d85/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://df29a1de-eb04-4266-a74b-44897aa90d85/ui-3.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635935433435	geckodriver	INFO	Listening on 127.0.0.1:47335
+1635935433942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48863" "-no-remote" "-profile" "/tmp/rust_mozprofilez3Bi4T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:48863/devtools/browser/45074839-f370-44f0-831e-fefe566d2ba6
+1635935435306	Marionette	INFO	Listening on port 42953
+1635935435369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0a8ee8d9-7f50-4c7d-a5c2-243822fc2f12/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1635935543721	geckodriver	INFO	Listening on 127.0.0.1:41333
+1635935544227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56507" "-no-remote" "-profile" "/tmp/rust_mozprofilebHr177"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:56507/devtools/browser/b61e8634-b8b6-4c41-a80f-328ac9a5b13b
+1635935545634	Marionette	INFO	Listening on port 34993
+1635935545775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-3.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667"
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://83b70c17-6042-41c5-bec8-6fc33a727667/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1635935639696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1270:3
+
+1635935807826	geckodriver	INFO	Listening on 127.0.0.1:40033
+1635935808332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58747" "-no-remote" "-profile" "/tmp/rust_mozprofileiVQgoM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:58747/devtools/browser/da28cd20-e900-4068-846e-a52262e192a9
+1635935809711	Marionette	INFO	Listening on port 36559
+1635935809746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://b3faed83-4b53-4242-9d68-9207aadd5ad7/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://b3faed83-4b53-4242-9d68-9207aadd5ad7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b3faed83-4b53-4242-9d68-9207aadd5ad7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b3faed83-4b53-4242-9d68-9207aadd5ad7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b3faed83-4b53-4242-9d68-9207aadd5ad7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://b3faed83-4b53-4242-9d68-9207aadd5ad7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://b3faed83-4b53-4242-9d68-9207aadd5ad7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://b3faed83-4b53-4242-9d68-9207aadd5ad7/ui-3.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635936075056	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635936085313	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635936093845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635936354424	geckodriver	INFO	Listening on 127.0.0.1:50999
+1635936354926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49733" "-no-remote" "-profile" "/tmp/rust_mozprofileZUwRHt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49733/devtools/browser/3b9e7bbb-b5cc-4b35-a84f-4f1fec992568
+!!! error running onStopped callback: TypeError: callback is not a function
+1635936357298	Marionette	INFO	Stopped listening on port 36559
+1635936357313	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1635936357364	Marionette	INFO	Listening on port 44813
+1635936357445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-3.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b"
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://37e619ad-470c-48d8-b5cb-f741b5e8df4b/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1635936638038	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635937207487	geckodriver	INFO	Listening on 127.0.0.1:41713
+1635937207985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49113" "-no-remote" "-profile" "/tmp/rust_mozprofilekBmSMK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49113/devtools/browser/17cd9d9b-9bc2-4f84-a358-5b6282c94b67
+1635937210300	Marionette	INFO	Listening on port 36671
+1635937210404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://ec1f05ff-aab3-4b5f-baba-d3f5aca6c7ae/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1635937318871	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635937912759	Marionette	INFO	Stopped listening on port 36671
+1635937912772	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1635939210224	geckodriver	INFO	Listening on 127.0.0.1:46851
+1635939210736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48969" "-no-remote" "-profile" "/tmp/rust_mozprofileoXfseY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:48969/devtools/browser/b2d9fffd-1804-430c-8554-ffab51db2edb
+1635939212169	Marionette	INFO	Listening on port 40475
+1635939212254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-3.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06"
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://31a9cf04-98df-4910-97d2-7aca82ff8f06/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1635939319560	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635939327912	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635939328717	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635939334929	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635939350600	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635939351465	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635939366302	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635939367082	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635939405775	geckodriver	INFO	Listening on 127.0.0.1:44117
+1635939405778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46731" "-no-remote" "-profile" "/tmp/rust_mozprofileOuxROs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46731/devtools/browser/0b015652-17a5-4a0b-aee9-700f71fb36ba
+1635939407192	Marionette	INFO	Listening on port 34393
+1635939407321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-3.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7"
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://1d44592e-f883-4f2e-87bc-8b5cf9a153c7/ui-3.js, line 1: unreachable code after return statement
+1635939540746	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635940782816	Marionette	INFO	Stopped listening on port 34393
+1635940782934	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1635940851439	geckodriver	INFO	Listening on 127.0.0.1:36841
+1635940851945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36579" "-no-remote" "-profile" "/tmp/rust_mozprofileV0senu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:36579/devtools/browser/2db895e3-6955-4d8d-b44c-8f9c24aa04ec
+1635940853309	Marionette	INFO	Listening on port 41539
+1635940853361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-3.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49"
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb6386a6-35d8-4292-ad1f-e54c67aaae49/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1635941083845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1635941095302	Marionette	INFO	Stopped listening on port 41539
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635941095315	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1635941096176	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1635941213226	geckodriver	INFO	Listening on 127.0.0.1:54845
+1635941213228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49879" "-no-remote" "-profile" "/tmp/rust_mozprofileNKfu9r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49879/devtools/browser/841f8e88-d870-418a-815c-75186516da3e
+1635941214553	Marionette	INFO	Listening on port 36427
+1635941214643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://886b3723-89a4-4ea5-8669-45d92e763481/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://886b3723-89a4-4ea5-8669-45d92e763481/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://886b3723-89a4-4ea5-8669-45d92e763481/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://886b3723-89a4-4ea5-8669-45d92e763481/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://886b3723-89a4-4ea5-8669-45d92e763481/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://886b3723-89a4-4ea5-8669-45d92e763481/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://886b3723-89a4-4ea5-8669-45d92e763481/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://886b3723-89a4-4ea5-8669-45d92e763481/ui-3.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1635941226412	Marionette	INFO	Stopped listening on port 36427
+1635941226544	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1635946089777	geckodriver	INFO	Listening on 127.0.0.1:44013
+1635946089779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38183" "-no-remote" "-profile" "/tmp/rust_mozprofilex1SvMZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:38183/devtools/browser/7349cfda-3506-42fc-bcfd-69258ef7e1b8
+1635946091178	Marionette	INFO	Listening on port 42061
+1635946091194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://b2e90dae-8ed7-480c-b5e6-186fb8d2f21f/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1635946206477	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635946213638	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635946221084	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635946221876	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635946229220	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635946235241	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+!!! error running onStopped callback: TypeError: callback is not a function
+1635946297845	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1635946297849	Marionette	INFO	Stopped listening on port 42061
+1635946297862	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1635946788354	geckodriver	INFO	Listening on 127.0.0.1:35645
+1635946788357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39913" "-no-remote" "-profile" "/tmp/rust_mozprofileLWD4SZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:39913/devtools/browser/da0e4de6-f0a4-474b-b3cf-7dcc7e5642c4
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2854: TypeError: event.target.closest is not a function
+1635946789703	Marionette	INFO	Listening on port 33019
+1635946789783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://de7c44cf-b70f-4471-abad-be639e60ec15/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://de7c44cf-b70f-4471-abad-be639e60ec15/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://de7c44cf-b70f-4471-abad-be639e60ec15/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://de7c44cf-b70f-4471-abad-be639e60ec15/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://de7c44cf-b70f-4471-abad-be639e60ec15/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://de7c44cf-b70f-4471-abad-be639e60ec15/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://de7c44cf-b70f-4471-abad-be639e60ec15/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://de7c44cf-b70f-4471-abad-be639e60ec15/ui-3.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635946875745	geckodriver	INFO	Listening on 127.0.0.1:59619
+1635946875750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49441" "-no-remote" "-profile" "/tmp/rust_mozprofileqk5akU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49441/devtools/browser/0fb96a14-05ce-4584-a153-4803f2e7c9ec
+1635946877369	Marionette	INFO	Listening on port 38123
+1635946877474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-3.js, line 1: unreachable code after return statement
+1635947028072	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635947035544	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635947057847	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://aafaafc7-1d51-485e-9dfd-323c9d41ecf9/ui-3.js, line 1: unreachable code after return statement
+1635947064593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635947125000	geckodriver	INFO	Listening on 127.0.0.1:36367
+1635947125002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45213" "-no-remote" "-profile" "/tmp/rust_mozprofilevoIhu6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:45213/devtools/browser/35ae1477-4926-4ec2-b620-4f207f0913ca
+1635947126426	Marionette	INFO	Listening on port 37223
+1635947126528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://bf18778c-7437-4cc2-b347-50ae52ba0bd5/ui-3.js, line 1: unreachable code after return statement
+1635947253609	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635947261538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635947267658	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635947268944	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635947282015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635947382471	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635947501523	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635948163590	geckodriver	INFO	Listening on 127.0.0.1:54161
+1635948163592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34611" "-no-remote" "-profile" "/tmp/rust_mozprofile9Z4JTO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:34611/devtools/browser/7220dcc9-0225-4cf0-9d9b-59966a8ccd82
+1635948164878	Marionette	INFO	Listening on port 41849
+1635948164906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://18fae2dd-f4cc-4e81-b434-ee3e701ee845/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1635948295129	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635948295919	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1635948302368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635951429412	Marionette	INFO	Stopped listening on port 41849
+1635951429432	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+!!! error running onStopped callback: TypeError: callback is not a function
+1635951434393	Marionette	INFO	Stopped listening on port 37223
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635951434409	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1636108283112	geckodriver	INFO	Listening on 127.0.0.1:56413
+1636108283612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46395" "-no-remote" "-profile" "/tmp/rust_mozprofiled3CjJB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46395/devtools/browser/6da41ae0-dbae-47e0-ba13-9b809125ae59
+1636108284988	Marionette	INFO	Listening on port 38143
+1636108285027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://225defd3-2c8c-45d7-8ccf-a32d966336b8/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1636108384876	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636110074072	geckodriver	INFO	Listening on 127.0.0.1:40683
+1636110074075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49803" "-no-remote" "-profile" "/tmp/rust_mozprofileR6HFS7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49803/devtools/browser/fec6a7c8-b5b2-4dd1-ac2b-2f11806c4d1a
+1636110075370	Marionette	INFO	Listening on port 41161
+1636110075389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-3.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b"
+1636110178879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://09ed2584-a702-494d-9fc0-e0906aa96d1b/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1636110196119	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636110325393	geckodriver	INFO	Listening on 127.0.0.1:57117
+1636110325396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35489" "-no-remote" "-profile" "/tmp/rust_mozprofilenWAKLz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:35489/devtools/browser/adb8ae3c-b079-4afc-9c9b-75459ae0d57b
+1636110326782	Marionette	INFO	Listening on port 40465
+1636110326821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://0c2cfff9-6fa0-4ae5-804b-ec5a8ceaed46/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1636110434111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636110511039	geckodriver	INFO	Listening on 127.0.0.1:41331
+1636110511042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52269" "-no-remote" "-profile" "/tmp/rust_mozprofileVFP1ya"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:52269/devtools/browser/538b0b5e-635b-475e-a0a0-7c6223f10bf9
+1636110512371	Marionette	INFO	Listening on port 43699
+1636110512465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://59cf57c6-a210-498b-b130-8f140072d18f/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1636110621682	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636110745405	geckodriver	INFO	Listening on 127.0.0.1:60203
+1636110745407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48331" "-no-remote" "-profile" "/tmp/rust_mozprofileivHisY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:48331/devtools/browser/d5b74496-c7d2-42ce-9143-5aee61cfc219
+1636110746834	Marionette	INFO	Listening on port 33353
+1636110746937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://eb8941e5-8439-414c-b6fc-25bc460d5558/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1636110855918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636111287777	geckodriver	INFO	Listening on 127.0.0.1:43307
+1636111288290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58393" "-no-remote" "-profile" "/tmp/rust_mozprofileeCIcbq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:58393/devtools/browser/d7b9c717-a9e8-41d2-9b69-c6b2465daf66
+1636111289705	Marionette	INFO	Listening on port 42543
+1636111289840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/background-6.js, line 25: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 690: WebGL context was lost.
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-3.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224"
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-3.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-4.js, line 33: unreachable code after return statement
+JavaScript warning: moz-extension://6c245f07-406c-4812-aae7-306cd8f0c224/ui-3.js, line 1: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+1636111393270	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111398936	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111409238	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111417300	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111425274	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111433282	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111441382	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111450921	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111459147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111466797	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111475059	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111483936	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111491387	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111500426	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111508485	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111516231	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111523928	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111533386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1636111541915	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+!!! error running onStopped callback: TypeError: callback is not a function
+1636111546190	Marionette	INFO	Stopped listening on port 42543
+1636111546202	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/observers/TargetObserver.jsm :: stop :: line 59"  data: no] Stack trace: stop()@TargetObserver.jsm:59
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:123
+1636111547063	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
